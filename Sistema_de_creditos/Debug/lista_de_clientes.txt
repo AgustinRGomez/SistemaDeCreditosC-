@@ -1,0 +1,9 @@
+Lista de Clientes : [ 
+Nombre y Apellido : Agustin Gomez , Edad : 26  , Monto : 4800.000000 
+Lista de Creditos : { 
+                     Estado : pagado , Prestamo: 0.000000  , Motivo : pagar impuestos 
+                     Estado : no pagado , Prestamo: 500.000000  , Motivo : comprar comida 
+                     Estado : no pagado , Prestamo: 4300.000000  , Motivo : comprar ps4 
+                     Estado : pagado , Prestamo: 0.000000  , Motivo : juegos para ps4 
+                    }cantidad de creditos : 4 
+]cantidad de clientes : 1 
